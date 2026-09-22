@@ -1,0 +1,41 @@
+body {
+    background-color: #000000;
+    color: #FFFFFF;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+h1 {
+    COLOR: rgba(223, 184, 7, 0.962);
+    font-size: 36px;
+    margin-top: 50px;
+}
+
+img.perfect {
+    object-position: center;
+    display: block;
+    margin: 0 auto;
+}
+
+img.hunt {
+    object-position: center;
+    display: block;
+    margin: 0 auto;
+}
+
+img.ran {
+    object-position: center;
+    display: block;
+    margin: 0 auto;
+}
+
+img.memo {
+    object-position: center;
+    display: block;
+    margin: 0 auto;
+}
+
+button {
+    background: rgba(223, 184, 7, 0.962);
+    color: #FFFFFF;
+    text-decoration: none;
+}x
