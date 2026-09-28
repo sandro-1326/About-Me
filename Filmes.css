@@ -34,8 +34,10 @@ img.memo {
     margin: 0 auto;
 }
 
-button {
-    background: rgba(223, 184, 7, 0.962);
-    color: #FFFFFF;
-    text-decoration: none;
-}x
+.custom-button {
+    background-color: rgba(223, 184, 7, 0.962);
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+}

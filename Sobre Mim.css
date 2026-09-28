@@ -1,0 +1,38 @@
+.custom-button {
+    background-color: rgba(223, 184, 7, 0.962);
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    position: center;
+}
+
+h1 {
+background: linear-gradient(135deg, rgba(223, 184, 7, 0.962)0%, rgb(255, 229, 79)100%);
+    border-radius: 8px;
+    padding: 40px;
+    max-width: 600px;
+    margin: 50px auto;
+    text-align: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.5);
+    font-family: "Oswald", sans-serif;
+    color: white;
+
+}
+body {
+    background-color: #000000;
+}
+
+p {
+    color: white;
+    font-size: 18px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+body {
+    background-color: #000000;
+    color: #FFFFFF;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
