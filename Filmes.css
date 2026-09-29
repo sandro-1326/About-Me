@@ -54,3 +54,93 @@ img.memo {
   font-weight: 400;
   font-style: normal;
 }
+
+
+.movie-genre {
+    color: white;
+    font-size: 14px;
+    margin-top: 10px;
+    text-align: left;
+}
+
+.movie-description {
+    color: white;
+    font-size: 12px;
+    margin-top: 20px;
+    text-align: left;
+    text-indent: 20px;
+}
+
+
+
+.card {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+.card-title {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.btn {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+}
+
+.btn-primary {
+    background-color: rgba(223, 184, 7, 0.962);
+    color: #fff;
+}
+
+.btn-secondary {
+    background-color: #6c757d;
+    color: #fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+
+
+
+
+
+
+
+.movie-review {
+    color: white;
+    font-size: 16px;
+    margin-top: 20px;
+    text-align: left;
+}
+
+
+
+.movie-title {
+    color: rgba(223, 184, 7, 0.962);
+    font-size: 30px;
+    margin-top: 10px;
+    text-align: left;
+}

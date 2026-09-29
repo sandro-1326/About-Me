@@ -68,3 +68,10 @@ img {
     display: block;
     margin: 0 auto;
 }
+
+.cards {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    padding: 20px
+}
